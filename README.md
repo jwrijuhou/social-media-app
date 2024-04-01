@@ -16,7 +16,7 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project directory.
    ```bash
-   cd social-media-frontend
+   cd social-media-app
    ```
 
 3. Install dependencies using npm or yarn.
