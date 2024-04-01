@@ -1,6 +1,6 @@
-# Social Media App Frontend
+# Social Media App 
 
-Welcome to our Social Media App frontend repository! This project is built using JavaScript, React.js, HTML, and CSS to create a dynamic and engaging user interface for a social media application.
+Welcome to our Social Media App repository! This project is built using JavaScript, React.js, HTML, and CSS to create a dynamic and engaging user interface for a social media application.
 
 ## Features
 - **Responsive Design:** Ensuring a seamless user experience across various devices and screen sizes.
